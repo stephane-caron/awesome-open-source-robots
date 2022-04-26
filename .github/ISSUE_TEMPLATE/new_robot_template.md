@@ -1,4 +1,12 @@
-Hi there! My name is ``...`` and I'd like to join Tast's Robots 🤖
+---
+name: Join Tast's Robots
+about: Add a new robot to the gang
+title: ''
+labels: ''
+assignees: ''
+---
+
+Hi there! My name is ``<robot_name>`` and I'd like to join Tast's Robots 🤖
 
 Here is some more information about me:
 
@@ -16,7 +24,7 @@ I have checked that my [build is open](https://github.com/tasts-robots/us/blob/m
 
 ## Parts and tools
 
-I have checked that my parts and the tools required to build me [are accessible](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md#accessible-parts): 
+I have checked that my parts and the tools required to build me [are accessible](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md#accessible-parts):
 
 * List of parts: (link)
 
