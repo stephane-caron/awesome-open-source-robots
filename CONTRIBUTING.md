@@ -14,4 +14,4 @@ The tools and parts required to build you can be sourced by makers on consumer m
 
 The software necessary to make each of your joints move should be available under a permissive or copyleft software license.
 
-Chime in by [opening an issue](https://github.com/tasts-robots/us/issues) if you check all these points!
+Chime in by [opening an issue](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) if you check all these points!
