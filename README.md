@@ -6,4 +6,4 @@
 
 ## Can I join Tast's Robots?
 
-We hope you can, the more the merrier! Robots can join as soon as they are both hardware- and software-reproducible. Check out the [contribution guidelines](CONTRIBUTING.md) for details, and [open an issue](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) for review if you check all the boxes!
+We hope you can, the more the merrier! Robots can join as soon as they are both hardware- and software-reproducible. Check out the [contribution guidelines](CONTRIBUTING.md) for more details on what this means, and [open an issue](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) for review if you check all the boxes!
