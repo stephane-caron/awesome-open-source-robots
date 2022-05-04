@@ -4,7 +4,7 @@ Upkie is a homemade wheeled biped robot that can balance, crouch and turn around
 
 ## Hardware
 
-- [3D print files](https://www.printables.com/model/127831-upkie-wheeled-biped-robot/files)
+- [3D printing files](https://www.printables.com/model/127831-upkie-wheeled-biped-robot/files)
 - [Build instructions](https://www.printables.com/model/127831-upkie-wheeled-biped-robot)
 
 Upkie's head derives from the chassis of the [mjbots quad](https://github.com/mjbots/quad).
@@ -17,4 +17,4 @@ Upkie's head derives from the chassis of the [mjbots quad](https://github.com/mj
 
 ## License
 
-Upkie's hardware is under the GPL 3.0 copyleft license. Most of its software is under the Apache 2.0 permissive license. Follow the links
+Upkie's model and software linked above are all under the Apache 2.0 permissive license.
