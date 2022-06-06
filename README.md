@@ -1,6 +1,6 @@
 # Tast's Robots
 
-### Robots' directory
+### Directory
 
 | Name  | Type          | Joints | Mass (kg) | License    | Project page | Model | Software |
 |-------|---------------|--------|-----------|------------|--------------|-------|----------|
