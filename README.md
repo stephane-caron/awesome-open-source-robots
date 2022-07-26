@@ -13,4 +13,4 @@
 
 ### Can my robot join the list?
 
-It can, if it is **makeable at home**. Check out the [guidelines](CONTRIBUTING.md) for detailed criteria, and [send an application](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) if it checks all the boxes!
+It can if it is *makeable at home* 🏠 Check out the [guidelines](CONTRIBUTING.md) for detailed criteria, and [send an application](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) if it checks all the boxes!
