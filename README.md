@@ -6,9 +6,10 @@ A curated list of awesome robots that can be fully built and operated at home.
 
 ### Robots
 
-| Name  | Type          | License    | Project page | Model | Software |
-|-------|---------------|------------|--------------|-------|----------|
-| Upkie | Wheeled biped | Apache-2.0 | [Hackaday.io](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots) |
+| Name  | Type          | License    | Model | Software |
+|-------|---------------|------------|-------|----------|
+| [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Quadruped | GPL-3.0 | ❔ | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled biped | Apache-2.0 | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots) |
 
 ### Gallery
 
