@@ -1,6 +1,10 @@
-# Tast's Robots
+# Awesome homemade robots
 
-### Directory
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of awesome robots that can be fully built and operated at home.
+
+### Robots
 
 | Name  | Type          | Joints | Mass (kg) | License    | Project page | Model | Software |
 |-------|---------------|--------|-----------|------------|--------------|-------|----------|
