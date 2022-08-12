@@ -1,6 +1,4 @@
-# Awesome Homemade Robots
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Homemade Robots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome robots that can be fully built and operated at home.
 
