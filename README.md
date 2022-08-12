@@ -1,4 +1,4 @@
-# Awesome homemade robots
+# Awesome Homemade Robots
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -14,7 +14,7 @@ A curated list of awesome robots that can be fully built and operated at home.
 
 ### Gallery
 
-| <img src="https://user-images.githubusercontent.com/1189580/170496331-e1293dd3-b50c-40ee-9c2e-f75f3096ebd8.png" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/172118225-dfb4c6e6-d56b-4d37-9bd2-56370cc25a35.png" height="100"> | 
+| <img src="https://user-images.githubusercontent.com/1189580/170496331-e1293dd3-b50c-40ee-9c2e-f75f3096ebd8.png" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/172118225-dfb4c6e6-d56b-4d37-9bd2-56370cc25a35.png" height="100"> |
 |--|--|
 
 ### Can my robot join the list?
