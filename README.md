@@ -32,4 +32,4 @@ A curated list of awesome robots that can be fully built and operated at home.
 
 ## Adding a robot to the list
 
-It can if it is *makeable at home* 🏠 Check out the [guidelines](CONTRIBUTING.md) for detailed criteria, and [send an application](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) if it checks all the boxes!
+New robots are welcome if they are *makeable at home* 🏠 Check out the [guidelines](CONTRIBUTING.md), then [open an application](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md).
