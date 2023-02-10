@@ -32,7 +32,6 @@ A curated list of awesome robots that can be fully built and operated at home.
 | Name  | Type          | License    | Model | Software |
 |-------|---------------|------------|-------|----------|
 | OpenScout | Wheeled | GPL-3.0 | ❌ | [GitHub](https://github.com/cbedio/OpenScout) |
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled biped | Apache-2.0 | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots) |
 
 ## Gallery
 
