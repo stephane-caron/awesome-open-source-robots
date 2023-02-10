@@ -7,6 +7,7 @@ A curated list of awesome robots that can be fully built and operated at home.
 * [Robots](#robots)
     * [Bipeds](#bipeds)
     * [Quadrupeds](#quadrupeds)
+    * [Wheeled](#wheeled)
 * [Gallery](#gallery)
 * [Add a Robot to the List](#add-a-robot-to-the-list)
 
