@@ -18,6 +18,7 @@ A curated list of awesome robots that can be fully built at home and operated us
 | Name  | Type          | License    | Model | Software |
 |-------|---------------|------------|-------|----------|
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled biped | Apache-2.0 | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots) |
+| [Rhea](https://github.com/G-Levine/rhea_description) | Wheeled biped | Apache 2.0 | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots/) |
 
 ### Quadrupeds
 
