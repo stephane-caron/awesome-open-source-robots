@@ -15,16 +15,16 @@ A curated list of awesome robots that can be fully built at home and operated us
 
 ### Bipeds
 
-| Name  | Type          | License    | Model | Software |
-|-------|---------------|------------|-------|----------|
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled biped | Apache-2.0 | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots) |
+| Name  | Type          | License    | Model | Build | Software |
+|-------|---------------|------------|-------|-------|----------|
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled biped | Apache-2.0 | [URDF](https://github.com/tasts-robots/upkie_description) |[GitHub](https://github.com/tasts-robots/build_upkie) | [GitHub](https://github.com/tasts-robots/upkie_locomotion) |
 
 ### Quadrupeds
 
-| Name  | Type          | License    | Model | Software |
-|-------|---------------|------------|-------|----------|
-| [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Quadruped | GPL-3.0 | ❌ | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
-| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Quadruped | Apache-2.0 | ❌ | [GitHub](https://github.com/mjbots/quad/) |
+| Name  | Type          | License    | Model | Build | Software |
+|-------|---------------|------------|-------|-------|----------|
+| [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Quadruped | GPL-3.0 | ❌ | [Hackaday.io]() | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
+| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Quadruped | Apache-2.0 | ❌ | ❌ | [GitHub](https://github.com/mjbots/quad/) |
 
 ### Wheeled
 
