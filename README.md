@@ -35,7 +35,7 @@ A curated list of awesome robots that can be fully built at home and operated us
 ## Gallery
 
 | <a href="https://hackaday.io/project/185729-upkie-wheeled-biped-robot"><img src="https://user-images.githubusercontent.com/1189580/172118225-dfb4c6e6-d56b-4d37-9bd2-56370cc25a35.png" alt="Upkie" height="100"> | <a href="https://github.com/cbedio/OpenScout"><img src="https://github.com/cbedio/OpenScout/blob/main/Documentation/Images/agriscout_incline.png" alt="OpenScout" height="100"></a> |
-|--|--|--|
+|--|--|
 
 ## Add a Robot to the List
 
