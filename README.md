@@ -24,7 +24,7 @@ A curated list of awesome robots that can be fully built at home and operated us
 | Name  | Type          | License    | Model | Build | Software |
 |-------|---------------|------------|-------|-------|----------|
 | [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Quadruped | GPL-3.0 | ❌ | [Hackaday.io](https://hackaday.io/project/171456/instructions) | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
-| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Quadruped | Apache-2.0 | ❌ | ❌ | [GitHub](https://github.com/mjbots/quad/) |
+| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Quadruped | Apache-2.0 | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) |
 
 ### Wheeled
 
