@@ -31,7 +31,7 @@ A curated list of awesome robots that can be fully built at home and operated us
 | Name      | Type          | License    | Model | Software |
 |-----------|---------------|------------|-------|----------|
 | OpenScout | Wheeled       | GPL-3.0    | ❌    | [GitHub](https://github.com/cbedio/OpenScout) |
-| WheelBot  | Wheeled       | GPL-3.0    | -     | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) |
+| [WheelBot](https://sites.google.com/view/wheelbot) | Wheeled       | GPL-3.0    | -     | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) |
 
 ## Gallery
 
