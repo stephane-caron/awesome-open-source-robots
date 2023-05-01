@@ -6,6 +6,7 @@ A curated list of awesome robots that can be fully built at home and operated us
 
 * [Robots](#robots)
     * [Bipeds](#bipeds)
+    * [Educational](#educational)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
 * [Gallery](#gallery)
@@ -19,6 +20,12 @@ A curated list of awesome robots that can be fully built at home and operated us
 |------|------------|------------|-------|-------|----------|
 | [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | Apache-2.0 | [GitHub](https://github.com/tasts-robots/build_upkie) | [URDF](https://github.com/tasts-robots/upkie_description) | [GitHub](https://github.com/tasts-robots/upkie_locomotion) |
+
+### Educational
+
+| Name  | Type          | License    | Build | Model | Software |
+|-------|---------------|------------|-------|-------|----------|
+| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Manipulator | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/trifinger_edu_description) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) |
 
 ### Quadrupeds
 
