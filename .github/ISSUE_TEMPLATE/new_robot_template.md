@@ -8,10 +8,10 @@ assignees: ''
 
 Hi there! Here is a proposal to add the open source robot ``<robot_name>`` 🤖
 
-* [ ] I have checked that the [build is open](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md)
-* [ ] I have checked that the [software to control the robot is open](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md)
+* [ ] I have checked that the build is open ([guidelines](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md))
+* [ ] I have checked that the software to control the robot is open ([guidelines](https://github.com/tasts-robots/us/blob/main/CONTRIBUTING.md))
 
-Here is some information about the robot:
+Relevant information about the robot:
 
 * Type: (Hexapod, Humanoid, Manipulator, Quadruped, ...)
 * License: (SPDX identifier of permissive or copyleft license, e.g. CC-BY-4.0, GPL-3.0, ...)
