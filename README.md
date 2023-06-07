@@ -8,6 +8,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
     * [Bipeds](#bipeds)
     * [Educational](#educational)
     * [Humanoids](#humanoids)
+    * [Hybrid](#hybrid)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
 * [Gallery](#gallery)
@@ -37,6 +38,12 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | CC-BY-SA-4.0 | GPL-3.0 | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) |
 
 \* CC-BY-NC-SA is not an open source license. See the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
+
+### Hybrid
+
+| Name  | Type          | License    | Build | Software |
+|-------|---------------|------------|-------|----------|
+| [Borinot](https://arxiv.org/abs/2305.01423) | Drone + Arm | ? | [Instructions](?) | [GitHub](?) |
 
 ### Quadrupeds
 
