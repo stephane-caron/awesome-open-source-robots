@@ -7,6 +7,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 * [Robots](#robots)
     * [Bipeds](#bipeds)
     * [Educational](#educational)
+    * [Humanoids](#humanoids)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
 * [Gallery](#gallery)
@@ -27,6 +28,12 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | Name  | Type          | License    | Build | Software |
 |-------|---------------|------------|-------|----------|
 | [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Manipulator | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) |
+
+### Humanoids
+
+| Name  | Type          | License    | Build | Software |
+|-------|---------------|------------|-------|----------|
+| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Flat foot | CC-BY-SA-4.0 & GPL-3.0 | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) |
 
 ### Quadrupeds
 
