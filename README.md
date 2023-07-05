@@ -40,6 +40,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 | Name      | Type    | License | Build | Software |
 |-----------|---------|---------|-------|----------|
+| JPL Open Source Rover | Wheeled | Apache-2.0 | [Build](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) | [GitHub](https://github.com/nasa-jpl/osr-rover-code) |
 | OpenScout | Wheeled | GPL-3.0 | [Manual](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | [GitHub](https://github.com/cbedio/OpenScout) |
 | [WheelBot](https://sites.google.com/view/wheelbot) | Wheeled | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) |
 
