@@ -31,9 +31,12 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 ### Humanoids
 
-| Name  | Type          | License    | Build | Software |
-|-------|---------------|------------|-------|----------|
-| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Flat foot | CC-BY-SA-4.0 & GPL-3.0 | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) |
+| Name  | HW License | SW License | Build | Code |
+|-------|------------|------------|-------|------|
+| [NimbRo-OP2X](https://www.nimbro.net/OP/) | CC-BY-NC-SA-3.0\* | BSD-3-Clause | ❌ | [GitHub](https://github.com/AIS-Bonn/humanoid_op_ros) |
+| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | CC-BY-SA-4.0 | GPL-3.0 | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) |
+
+\* CC-BY-NC-SA is not an open source license. See the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
 
 ### Quadrupeds
 
