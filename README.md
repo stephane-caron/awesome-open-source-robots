@@ -43,7 +43,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 | Name  | Type          | License    | Build | Software |
 |-------|---------------|------------|-------|----------|
-| [Borinot](https://arxiv.org/abs/2305.01423) | Drone + Arm | ? | [Instructions](?) | [GitHub](?) |
+| [Borinot](https://arxiv.org/abs/2305.01423) | Drone + Arm | ? | ? | ? |
 
 ### Quadrupeds
 
