@@ -66,7 +66,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | <img src="https://user-images.githubusercontent.com/1189580/172118225-dfb4c6e6-d56b-4d37-9bd2-56370cc25a35.png" alt="Upkie" height="100"> | <img src="https://github.com/cbedio/OpenScout/blob/main/Documentation/Images/agriscout_incline.png" alt="OpenScout" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/quadruped_robot_12dof_v1/images/solo12_8.jpg" alt="Solo" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/tri_finger_edu_v1/images/manipulator_platform_1.jpg" alt="TriFingerEdu" height="100"> |
 |--|--|--|--|
 | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/235462247-90e2f20b-1159-4989-b1c8-911d1e334b7e.png" alt="WheelBot" height="100"> | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> |
-| <img src="gallery/nimbro-op2x.jpg" alt="NimbRo-OP2X" height="100"> | | | |
+| <img src="gallery/nimbro-op2x.jpg" alt="NimbRo-OP2X" height="100"> | <img src="gallery/borinot.png" alt="Borinot" height="100"> | | |
 
 ## Add a Robot to the List
 
