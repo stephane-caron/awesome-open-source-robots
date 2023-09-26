@@ -19,11 +19,11 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 ### Bipeds
 
-| Name | Type       | License    | Build | Software |
-|------|------------|------------|-------|----------|
-| [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) |
-| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | BSD-3-Clause | [Instructions](https://kayra.org/en/1-how-to-build/build-overview) | [GitHub](https://github.com/assadollahi/kayra) |
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | Apache-2.0 | [GitHub](https://github.com/tasts-robots/build_upkie) | [GitHub](https://github.com/tasts-robots/upkie_locomotion) |
+| Name | Type       | Hardware | HW License | Software | SW License |
+|------|------------|----------|------------|----------|------------|
+| [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
+| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Instructions](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/tasts-robots/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/tasts-robots/upkie_locomotion) | Apache-2.0 |
 
 ### Educational
 
