@@ -6,9 +6,9 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 * [Robots](#robots)
     * [Bipeds](#bipeds)
-    * [Educational](#educational)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
+    * [Parallel](#parallel)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
 * [Gallery](#gallery)
@@ -25,12 +25,6 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Instructions](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/tasts-robots/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/tasts-robots/upkie_locomotion) | Apache-2.0 |
 
-### Educational
-
-| Name  | Type          | License    | Build | Software |
-|-------|---------------|------------|-------|----------|
-| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Manipulator | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) |
-
 ### Humanoids
 
 | Name  | Build | Build License | Code | Code License |
@@ -42,6 +36,12 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | Name  | Type          | License    | Build | Software |
 |-------|---------------|------------|-------|----------|
 | [Borinot](http://www.iri.upc.edu/borinot) | Drone + Arm | BSD-3-Clause | [Instructions](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) |
+
+### Parallel
+
+| Name  | Type          | Hardware | HW License | Software | SW License |
+|-------|---------------|----------|------------|----------|------------|
+| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Manipulator | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
 
 ### Quadrupeds
 
