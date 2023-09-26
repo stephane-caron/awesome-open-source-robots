@@ -33,9 +33,9 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 ### Humanoids
 
-| Name  | HW License | SW License | Build | Code |
-|-------|------------|------------|-------|------|
-| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | CC-BY-SA-4.0 | GPL-3.0 | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) |
+| Name  | Build | Build License | Code | Code License |
+|-------|-------|---------------|------|--------------|
+| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
 
 ### Hybrid
 
