@@ -74,4 +74,4 @@ New robots are welcome to the list, as long as they are [open source](CONTRIBUTI
 
 The following robots aim or claim to be open source, but they don't pass some items in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
 
-* [NimbRo-OP2X](https://www.nimbro.net/OP/): under the CC-BY-NC-SA-3.0, which is not open source because of the NC part.
+* [NimbRo-OP2X](https://www.nimbro.net/OP/) - Under the CC-BY-NC-SA-3.0, which is not open source because of the NC part.
