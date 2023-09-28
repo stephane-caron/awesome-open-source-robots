@@ -47,7 +47,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 | Name  | Type          | License    | Build | Software |
 |-------|---------------|------------|-------|----------|
-| [DIY hobby servos quadruped robot](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Point-foot | GPL-3.0 | [Hackaday.io](https://hackaday.io/project/171456/instructions) | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
+| [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Point-foot | GPL-3.0 | [Hackaday.io](https://hackaday.io/project/171456/instructions) | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) |
 | [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Point-foot | Apache-2.0 | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | [GitHub](https://github.com/mjbots/quad/) |
 | [Solo](https://www.youtube.com/watch?v=VjpmQ9MsLKg) | Point-foot | CC0-1.0 | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1) | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=solo) |
 
