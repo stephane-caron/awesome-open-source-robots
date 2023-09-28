@@ -22,20 +22,20 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | Name | Type       | Hardware | HW License | Software | SW License |
 |------|------------|----------|------------|----------|------------|
 | [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
-| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Instructions](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
+| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Overview](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/tasts-robots/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/tasts-robots/upkie_locomotion) | Apache-2.0 |
 
 ### Humanoids
 
-| Name  | Build | Build License | Code | Code License |
-|-------|-------|---------------|------|--------------|
-| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | [Build](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
+| Name  | Hardware | HW License | Software | SW License |
+|-------|----------|------------|----------|------------|
+| [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
 
 ### Hybrid
 
-| Name  | Type          | License    | Build | Software |
-|-------|---------------|------------|-------|----------|
-| [Borinot](http://www.iri.upc.edu/borinot) | Drone + Arm | BSD-3-Clause | [Instructions](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) |
+| Name  | Type          | Hardware | HW License | Software | SW License |
+|-------|---------------|----------|------------|----------|------------|
+| [Borinot](http://www.iri.upc.edu/borinot) | Drone + Arm | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
 
 ### Parallel
 
@@ -72,6 +72,6 @@ New robots are welcome to the list, as long as they are [open source](CONTRIBUTI
 
 ## Not Fully Open Source Robots
 
-The following robots aim or claim to be open source, but they don't pass some items in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
+The following robots aim to be open source, but they don't pass some items in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
 
 * [NimbRo-OP2X](https://www.nimbro.net/OP/) - Under the CC-BY-NC-SA-3.0, which is not open source because of the NC part.
