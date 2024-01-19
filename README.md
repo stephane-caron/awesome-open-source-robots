@@ -24,7 +24,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 | [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
 | [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Overview](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
 | [TipTap](https://hackaday.io/project/163093-tiptap) | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/tasts-robots/upkie_locomotion) | Apache-2.0 |
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
 
 ### Humanoids
 
