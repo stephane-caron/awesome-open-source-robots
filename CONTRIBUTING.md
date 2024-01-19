@@ -13,4 +13,4 @@ Instructions and build files, such as 3D printing models, should be published un
 
 All the software necessary to make the robot move should be available under a permissive or copyleft software license.
 
-Chime in with a [new robot proposal](https://github.com/tasts-robots/us/issues/new?template=new_robot_template.md) if you check all these points!
+Chime in with a [new robot proposal](https://github.com/stephane-caron/awesome-open-source-robots/issues/new?template=new_robot_template.md) if you check all these points!
