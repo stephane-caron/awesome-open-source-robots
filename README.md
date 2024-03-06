@@ -22,7 +22,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 | Name | Hardware | HW License | Software | SW License |
 |------|----------|------------|----------|------------|
-| [Thor](https://github.com/AngelLM/Thor) | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
+| [Thor](http://thor.angel-lm.com/) | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
 
 ### Bipeds
 
