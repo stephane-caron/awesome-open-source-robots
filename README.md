@@ -37,6 +37,7 @@ A curated list of awesome robots that are fully open source, both hardware and s
 
 | Name  | Hardware | HW License | Software | SW License |
 |-------|----------|------------|----------|------------|
+| [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
 
 ### Hybrid
