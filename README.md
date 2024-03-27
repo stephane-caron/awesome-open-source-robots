@@ -1,6 +1,6 @@
 # Awesome Open Source Robots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robots that are fully open source, both hardware and software.
+A curated list of awesome robots with open source software, open hardware, and in the best cases both.
 
 ## Contents
 
