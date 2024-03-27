@@ -55,7 +55,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 ### Quadrupeds
 
 | Name  | Type          | Hardware | HW License | Software | SW License |
-|-------|---------------|------------|-------|----------|
+|-------|---------------|----------|------------|----------|------------|
 | [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Point-foot | [Hackaday.io](https://hackaday.io/project/171456/instructions) | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) | GPL-3.0 |
 | [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Point-foot | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
 | [Petoi Robot Cat Nybble](https://www.petoi.com/collections/robots/products/petoi-nybble-robot-cat) | Point-foot | ❌ | ❌ | [OpenCat](https://github.com/PetoiCamp/OpenCat) | MIT |
