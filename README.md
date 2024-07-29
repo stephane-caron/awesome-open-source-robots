@@ -7,7 +7,6 @@ A curated list of awesome robots with open source software, open hardware, and i
 * [Robots](#robots)
     * [Arms](#arms)
     * [Bipeds](#bipeds)
-    * [Dual Arms](#dual-arms)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
     * [Parallel](#parallel)
@@ -34,12 +33,6 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [TipTap](https://hackaday.io/project/163093-tiptap) | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
 
-### Dual Arms
-
-| Name | Hardware | HW License | Software | SW License |
-|------|----------|------------|----------|------------|
-| [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
-
 ### Humanoids
 
 | Name  | Hardware | HW License | Software | SW License |
@@ -51,6 +44,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 | Name  | Type          | Hardware | HW License | Software | SW License |
 |-------|---------------|----------|------------|----------|------------|
+| [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
 | [Borinot](http://www.iri.upc.edu/borinot) | Drone + Arm | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
 
 ### Parallel
@@ -61,12 +55,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Quadrupeds
 
-| Name  | Type          | Hardware | HW License | Software | SW License |
-|-------|---------------|----------|------------|----------|------------|
-| [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | Point-foot | [Hackaday.io](https://hackaday.io/project/171456/instructions) | ❌ CC-BY-NC-SA-3.0 | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) | GPL-3.0 |
-| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Point-foot | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
-| [Petoi Robot Cat Nybble](https://www.petoi.com/collections/robots/products/petoi-nybble-robot-cat) | Point-foot | ❌ | ❌ | [OpenCat](https://github.com/PetoiCamp/OpenCat) | MIT |
-| [Solo](https://www.youtube.com/watch?v=VjpmQ9MsLKg) | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1) | CC0-1.0 |  [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=solo) | CC0-1.0 |
+| Name  | Hardware | HW License | Software | SW License |
+|-------|----------|------------|----------|------------|
+| [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | [Hackaday.io](https://hackaday.io/project/171456/instructions) | ❌ CC-BY-NC-SA-3.0 | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) | GPL-3.0 |
+| [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
+| [Petoi Robot Cat Nybble](https://www.petoi.com/collections/robots/products/petoi-nybble-robot-cat) | ❌ | ❌ | [OpenCat](https://github.com/PetoiCamp/OpenCat) | MIT |
+| [Solo](https://www.youtube.com/watch?v=VjpmQ9MsLKg) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1) | CC0-1.0 |  [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=solo) | CC0-1.0 |
 
 ### Wheeled
 
