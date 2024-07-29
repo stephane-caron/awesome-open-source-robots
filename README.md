@@ -42,16 +42,16 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Hybrid
 
-| Name  | Type          | Hardware | HW License | Software | SW License |
-|-------|---------------|----------|------------|----------|------------|
+| Name  | Hardware | HW License | Software | SW License |
+|-------|----------|------------|----------|------------|
 | [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
-| [Borinot](http://www.iri.upc.edu/borinot) | Drone + Arm | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
+| [Borinot](http://www.iri.upc.edu/borinot) | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
 
 ### Parallel
 
-| Name  | Type          | Hardware | HW License | Software | SW License |
-|-------|---------------|----------|------------|----------|------------|
-| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Manipulator | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
+| Name  | Hardware | HW License | Software | SW License |
+|-------|----------|------------|----------|------------|
+| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
 
 ### Quadrupeds
 
