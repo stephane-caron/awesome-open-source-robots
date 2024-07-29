@@ -7,6 +7,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 * [Robots](#robots)
     * [Arms](#arms)
     * [Bipeds](#bipeds)
+    * [Dual Arms](#dual-arms)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
     * [Parallel](#parallel)
@@ -32,6 +33,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Overview](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
 | [TipTap](https://hackaday.io/project/163093-tiptap) | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
+
+### Dual Arms
+
+| Name | Hardware | HW License | Software | SW License |
+|------|----------|------------|----------|------------|
+| [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
 
 ### Humanoids
 
