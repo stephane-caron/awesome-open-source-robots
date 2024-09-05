@@ -20,9 +20,10 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Arms
 
-| Name | Hardware | HW License | Software | SW License |
-|------|----------|------------|----------|------------|
-| [Thor](http://thor.angel-lm.com/) | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
+| Name | Author | Hardware | HW License | Software | SW License |
+|------|--------|----------|------------|----------|------------|
+| [low\_cost\_robot](https://tau-robotics.com/robots) | Alexander Koch | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/hardware) | MIT | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/simulation) | MIT |
+| [Thor](http://thor.angel-lm.com/) | Ángel L.M. | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
 
 ### Bipeds
 
