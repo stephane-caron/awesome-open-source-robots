@@ -39,6 +39,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 | Name  | Hardware | HW License | Software | SW License |
 |-------|----------|------------|----------|------------|
+| [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
 
@@ -83,9 +84,3 @@ A curated list of awesome robots with open source software, open hardware, and i
 ## Add a Robot to the List
 
 New robots are welcome to the list, as long as they are [open source](CONTRIBUTING.md) in both hardware and software.
-
-## Not Fully Open Source Robots
-
-The following robots aim to be open source, but they don't pass some items in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
-
-* [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) - Under the CC-BY-NC-SA-3.0, which is not open source because of the NC part.
