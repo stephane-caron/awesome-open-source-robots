@@ -14,7 +14,6 @@ A curated list of awesome robots with open source software, open hardware, and i
     * [Wheeled](#wheeled)
 * [Gallery](#gallery)
 * [Add a Robot to the List](#add-a-robot-to-the-list)
-* [Not Fully Open Source Robots](#not-fully-open-source-robots)
 
 ## Robots
 
