@@ -7,6 +7,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 * [Robots](#robots)
     * [Arms](#arms)
     * [Bipeds](#bipeds)
+    * [Educational](#educational)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
     * [Parallel](#parallel)
@@ -34,6 +35,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | Point-foot | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main/mini_bdx/robots/bdx) | Apache-2.0 | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main) | Apache-2.0 |
 | [TipTap](https://hackaday.io/project/163093-tiptap) | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
+
+### Educational
+
+| Name  | Maker | Hardware | HW License | Software | SW License |
+|-------|-------|----------|------------|----------|------------|
+| Furuta Pendulum | [Henrique Ferrolho](https://github.com/ferrolho) | [Build instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md) | MIT | [GitHub](https://github.com/ferrolho/rotary-inverted-pendulum) | MIT |
 
 ### Humanoids
 
