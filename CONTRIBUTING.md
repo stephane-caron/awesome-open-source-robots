@@ -1,6 +1,6 @@
 # Adding a robot to the list
 
-Robots in this list are all open source, **both HW and SW**. Here is our attempt at defining that:
+Robots in this list are open source **both** in hardware and software. Here is our attempt at defining that:
 
 ### 🛠️ Open build
 
@@ -13,4 +13,12 @@ Instructions and build files, such as 3D printing models, should be published un
 
 All the software necessary to make the robot move should be available under a permissive or copyleft software license.
 
-Chime in with a [new robot proposal](https://github.com/stephane-caron/awesome-open-source-robots/issues/new?template=new_robot_template.md) if you check all these points!
+## Submitting a PR
+
+Chime in with a [pull request](https://github.com/stephane-caron/awesome-open-source-robots/compare) if you check all these points!
+
+* Hardware build and motion control software are open (see above)
+* Use SPDX identifiers for hardware and software licenses
+* Link to a project page in the first column, if there is one
+* Link to build instructions in the Hardware column, if possible
+* Link to the motion control Software in the corresponding column
