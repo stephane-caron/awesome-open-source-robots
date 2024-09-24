@@ -40,7 +40,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 | Name  | Maker | Hardware | HW License | Software | SW License |
 |-------|-------|----------|------------|----------|------------|
-| Furuta Pendulum | [Henrique Ferrolho](https://github.com/ferrolho) | [Build instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md) | MIT | [GitHub](https://github.com/ferrolho/rotary-inverted-pendulum) | MIT |
+| Furuta Pendulum | [Henrique Ferrolho](https://github.com/ferrolho) | [Build instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md), [meshes](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/meshes) | MIT | [GitHub](https://github.com/ferrolho/rotary-inverted-pendulum) | MIT |
 
 ### Humanoids
 
