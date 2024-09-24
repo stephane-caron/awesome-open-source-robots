@@ -4,6 +4,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ## Contents
 
+* [Gallery](#gallery)
 * [Robots](#robots)
     * [Arms](#arms)
     * [Bipeds](#bipeds)
@@ -13,8 +14,15 @@ A curated list of awesome robots with open source software, open hardware, and i
     * [Parallel](#parallel)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
-* [Gallery](#gallery)
-* [Add a Robot to the List](#add-a-robot-to-the-list)
+* [Adding a Robot to the List](#adding-a-robot-to-the-list)
+
+## Gallery
+
+| <img src="gallery/upkie.jpg" alt="Upkie" height="100"> | <img src="https://github.com/cbedio/OpenScout/blob/main/Documentation/Images/agriscout_incline.png" alt="OpenScout" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/quadruped_robot_12dof_v1/images/solo12_8.jpg" alt="Solo" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/tri_finger_edu_v1/images/manipulator_platform_1.jpg" alt="TriFingerEdu" height="100"> |
+|--|--|--|--|
+| <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/235462247-90e2f20b-1159-4989-b1c8-911d1e334b7e.png" alt="WheelBot" height="100"> | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> |
+| <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="https://raw.githubusercontent.com/AngelLM/Thor/cb227b58d3ee1fa9c77efdd04331f981718d7ac2/doc/main.jpg" alt="Thor" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> | <img src="gallery/open-duck-mini.jpg" alt="Open Duck Mini" height="100"> |
+| <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> |  |  |  |
 
 ## Robots
 
@@ -81,14 +89,6 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | GPL-3.0 | [Manual](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | [GitHub](https://github.com/cbedio/OpenScout) |
 | [WheelBot](https://sites.google.com/view/wheelbot) | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) |
 
-## Gallery
-
-| <img src="gallery/upkie.jpg" alt="Upkie" height="100"> | <img src="https://github.com/cbedio/OpenScout/blob/main/Documentation/Images/agriscout_incline.png" alt="OpenScout" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/quadruped_robot_12dof_v1/images/solo12_8.jpg" alt="Solo" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/tri_finger_edu_v1/images/manipulator_platform_1.jpg" alt="TriFingerEdu" height="100"> |
-|--|--|--|--|
-| <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/235462247-90e2f20b-1159-4989-b1c8-911d1e334b7e.png" alt="WheelBot" height="100"> | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> |
-| <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="https://raw.githubusercontent.com/AngelLM/Thor/cb227b58d3ee1fa9c77efdd04331f981718d7ac2/doc/main.jpg" alt="Thor" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> | <img src="gallery/open-duck-mini.jpg" alt="Open Duck Mini" height="100"> |
-| <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> |  |  |  |
-
-## Add a Robot to the List
+## Adding a Robot to the List
 
 New robots are welcome to the list, as long as they are [open source](CONTRIBUTING.md) in both hardware and software.
