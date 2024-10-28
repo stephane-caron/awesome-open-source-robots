@@ -28,8 +28,8 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Arms
 
-| Name | Maker | Hardware | HW License | Software | SW License |
-|------|-------|----------|------------|----------|------------|
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
 | [Koch v1.1](https://github.com/jess-moss/koch-v1-1) | Jess Moss | [GitHub](https://github.com/jess-moss/koch-v1-1/tree/main/hardware) | Apache-2.0 | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/blob/main/robot.py) | MIT |
 | [low\_cost\_robot](https://tau-robotics.com/robots) | Alexander Koch | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/hardware) | MIT | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/simulation) | MIT |
 | [Thor](http://thor.angel-lm.com/) | Ángel L.M. | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
@@ -46,14 +46,14 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Educational
 
-| Name  | Maker | Hardware | HW License | Software | SW License |
-|-------|-------|----------|------------|----------|------------|
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
 | [Rotary Inverted Pendulum](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main) | [Henrique Ferrolho](https://github.com/ferrolho) | [Instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md), [Meshes](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/meshes) | MIT | [Arduino](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-arduino), [Julia](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-julia), [Python](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-python) | MIT |
 
 ### Humanoids
 
-| Name  | Maker | Hardware | HW License | Software | SW License |
-|-------|-------|----------|------------|----------|------------|
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
 | [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | NimbRo team | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | ❌ CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
@@ -67,14 +67,14 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Parallel
 
-| Name  | Hardware | HW License | Software | SW License |
-|-------|----------|------------|----------|------------|
-| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/)| [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
 
 ### Quadrupeds
 
-| Name  | Hardware | HW License | Software | SW License |
-|-------|----------|------------|----------|------------|
+| Project | Hardware | HW License | Software | SW License |
+|---------|----------|------------|----------|------------|
 | [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | [Hackaday.io](https://hackaday.io/project/171456/instructions) | ❌ CC-BY-NC-SA-3.0 | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) | GPL-3.0 |
 | [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
 | [Petoi Robot Cat Nybble](https://www.petoi.com/collections/robots/products/petoi-nybble-robot-cat) | ❌ | ❌ | [OpenCat](https://github.com/PetoiCamp/OpenCat) | MIT |
@@ -82,8 +82,8 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Wheeled
 
-| Name | License | Build | Software |
-|------|---------|-------|----------|
+| Project | License | Build | Software |
+|---------|---------|-------|----------|
 | [Hoverbot](https://www.youtube.com/watch?v=syxE1NEU7lw) | Apache-2.0 | [GitHub](https://github.com/mjbots/hoverbot/blob/main/BOM.md) | [GitHub](https://github.com/mjbots/hoverbot/) |
 | [JPL Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) | Apache-2.0 | [Build](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) | [GitHub](https://github.com/nasa-jpl/osr-rover-code) |
 | [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | GPL-3.0 | [Manual](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | [GitHub](https://github.com/cbedio/OpenScout) |
