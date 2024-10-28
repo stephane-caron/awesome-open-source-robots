@@ -36,13 +36,14 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Bipeds
 
-| Name | Type       | Hardware | HW License | Software | SW License |
-|------|------------|----------|------------|----------|------------|
-| [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
-| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Overview](https://kayra.org/en/1-how-to-build/build-overview) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
-| [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | Point-foot | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main/mini_bdx/robots/bdx) | Apache-2.0 | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main) | Apache-2.0 |
-| [TipTap](https://hackaday.io/project/163093-tiptap) | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
+| Project | Maker | Type | Hardware | HW License | Software | SW License |
+|---------|-------|------|----------|------------|----------|------------|
+| [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | | Point-foot | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
+| [Duke Humanoid](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) | Duke University | Line-foot | [Wiki](https://sleepy-yoke-a21.notion.site/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89) | MIT | [GitHub](https://github.com/generalroboticslab/DukeHumanoidv1) | MIT |
+| [Kayra](https://youtu.be/ZpM4JqCai9M) | Flat-foot | [Overview](https://kayra.org/en/1-how-to-build/build-overview) | | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
+| [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | | Point-foot | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main/mini_bdx/robots/bdx) | Apache-2.0 | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main) | Apache-2.0 |
+| [TipTap](https://hackaday.io/project/163093-tiptap) | | Point-foot | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | [Stéphane Caron](https://github.com/stephane-caron) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
 
 ### Educational
 
