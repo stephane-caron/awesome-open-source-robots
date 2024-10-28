@@ -61,10 +61,10 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Hybrid
 
-| Name  | Hardware | HW License | Software | SW License |
-|-------|----------|------------|----------|------------|
-| [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
-| [Borinot](http://www.iri.upc.edu/borinot) | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | DFKI RIC Underactuated Lab | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
+| [Borinot](http://www.iri.upc.edu/borinot) | HiDRo group | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
 
 ### Parallel
 
