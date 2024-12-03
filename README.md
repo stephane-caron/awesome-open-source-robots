@@ -69,7 +69,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
-| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/)| [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
+| [TriFingerEdu](https://webdav.tuebingen.mpg.de/trifinger/) | Open Dynamic Robot Initiative | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=trifinger_edu) | BSD-3-Clause |
 
 ### Quadrupeds
 
