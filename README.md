@@ -22,7 +22,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 |--|--|--|--|
 | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="https://user-images.githubusercontent.com/1189580/235462247-90e2f20b-1159-4989-b1c8-911d1e334b7e.png" alt="WheelBot" height="100"> | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> |
 | <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="https://raw.githubusercontent.com/AngelLM/Thor/cb227b58d3ee1fa9c77efdd04331f981718d7ac2/doc/main.jpg" alt="Thor" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> | <img src="gallery/open-duck-mini.jpg" alt="Open Duck Mini" height="100"> |
-| <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> |  |  |  |
+| <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> | <img src="gallery/mevius.jpg" alt="MEVIUS quadruped" height="100"> |  |  |
 
 ## Robots
 
