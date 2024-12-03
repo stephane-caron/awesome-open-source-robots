@@ -77,6 +77,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 | Project | Hardware | HW License | Software | SW License |
 |---------|----------|------------|----------|------------|
 | [DIY hobby servos quadruped](https://hackaday.io/project/171456-diy-hobby-servos-quadruped-robot) | [Hackaday.io](https://hackaday.io/project/171456/instructions) | ❌ CC-BY-NC-SA-3.0 | [GitHub](https://github.com/miguelasd688/4-legged-robot-model) | GPL-3.0 |
+| [MEVIUS](https://haraduka.github.io/mevius-hardware/) | [Google Drive](https://drive.google.com/drive/folders/18i6CWtUG8fkY0rCcbjN5WiUYItjIX0WM) | MIT | [GitHub](https://github.com/haraduka/mevius) | MIT |
 | [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
 | [Solo](https://www.youtube.com/watch?v=VjpmQ9MsLKg) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1) | CC0-1.0 |  [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=solo) | CC0-1.0 |
 
