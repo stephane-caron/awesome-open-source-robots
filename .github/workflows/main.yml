@@ -1,16 +1,22 @@
 name: CI
 
 on:
-   push:
-      branches: [main]
-   pull_request:
-      branches: [main]
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
 
 jobs:
-   Awesome_Lint:
-      runs-on: ubuntu-latest
-      steps:
-         - uses: actions/checkout@v4
-            with:
-               fetch-depth: 0
-         - run: npx awesome-lint
+    lint:
+        name: "Lint the readme"
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: "Checkout Git repository"
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: "Awesome lint"
+              run: |
+                  npx awesome-lint
