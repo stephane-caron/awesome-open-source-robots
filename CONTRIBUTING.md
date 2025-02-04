@@ -1,23 +1,27 @@
 # Adding a robot to the list
 
-Robots in this list are open source **both** in hardware and software. Here is our attempt at defining that:
+Robots in this list should be open source **both** in hardware and software. If they don't qualify on one of the two criteria, we mark it out as a ❌.
 
-### 🛠️ Open build
+### 🛠️ Open-source hardware
 
-* **License:** Instructions and build files, such as 3D printing models, should be published under a permissive or copyleft license.
-* **Tools:** ideally build tools and parts can all be sourced by makers on consumer markets, such as DIY stores or online retail. For example, 3D printing in ABS or PETG works, but in tungsten carbide is not OK for all; relying on a low-cost MEMS IMU works for most, but a space-grade IMU won't be OK for all.
+Instructions and build files, such as 3D printing models, should be published under an [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) license. For instance:
 
-### 🦾 Open motion control
+- [TAPR Open Hardware License](https://en.wikipedia.org/wiki/TAPR_Open_Hardware_License)
+- [CERN Open Hardware Licence](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence)
+- Creative Commons license may be OK, but not if they contain an NC clause at it goes against the [Open Source Definition](https://opensource.org/osd)
 
-* **License:** All the software necessary to make the robot move should be available under a permissive or copyleft software license.
-* **Discussions:** since instructions are never 100% complete, it is also better if there is some way of communicating with project maintainers to fill out the blanks (*e.g.* GitHub discussions).
+Ideally, build tools can all be bought online. For example, 3D printing in ABS or PETG works, but in tungsten carbide is not OK for all. Similarly, relying on a low-cost MEMS IMU works for most, but not a space-grade IMU.
+
+### 🦾 Open-source software
+
+All the software necessary to make the robot move should be available under a permissive or copyleft software license.
 
 ## Submitting a PR
 
 Chime in with a [pull request](https://github.com/stephane-caron/awesome-open-source-robots/compare) if you check all these points:
 
-* Hardware build and motion control software are open (see above)
-* Use SPDX identifiers for hardware and software licenses
-* Link to a project page in the first column, if there is one
-* Link to build instructions in the Hardware column, if possible
-* Link to the motion control Software in the corresponding column
+- Hardware build and motion control software are open (see above)
+- Use SPDX identifiers for hardware and software licenses
+- Link to a project page in the first column, if there is one
+- Link to build instructions in the Hardware column, if possible
+- Link to the motion control Software in the corresponding column
