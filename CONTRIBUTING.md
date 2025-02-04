@@ -8,7 +8,7 @@ Instructions and build files, such as 3D printing models, should be published un
 
 - [TAPR Open Hardware License](https://en.wikipedia.org/wiki/TAPR_Open_Hardware_License)
 - [CERN Open Hardware Licence](https://en.wikipedia.org/wiki/CERN_Open_Hardware_Licence)
-- Creative Commons license may be OK, but not if they contain an NC clause at it goes against the [Open Source Definition](https://opensource.org/osd)
+- Some Creative Commons licenses are OK, but not those with an NC clause at it goes against the [open-source definition](https://opensource.org/osd)
 
 Ideally, build tools can all be bought online. For example, 3D printing in ABS or PETG works, but in tungsten carbide is not OK for all. Similarly, relying on a low-cost MEMS IMU works for most, but not a space-grade IMU.
 
