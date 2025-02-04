@@ -12,7 +12,7 @@ Instructions and build files, such as 3D printing models, should be published un
 
 Ideally, build tools can all be bought online. For example, 3D printing in ABS or PETG works, but in tungsten carbide is not OK for all. Similarly, relying on a low-cost MEMS IMU works for most, but not a space-grade IMU.
 
-### 🦾 Open-source software
+### 💻 Open-source software
 
 All the software necessary to make the robot move should be available under a permissive or copyleft software license.
 
