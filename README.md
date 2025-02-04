@@ -43,7 +43,6 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) | [Raspibotics](https://github.com/raspibotics) | Wheeled | [GitHub](https://github.com/raspibotics/MABEL/tree/master/CAD) | GPL-3.0 | [GitHub](https://github.com/raspibotics/MABEL/) | GPL-3.0 |
 | [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | [Antoine Pirrone](https://github.com/apirrone) | Spherical | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main/mini_bdx/robots/bdx) | Apache-2.0 | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main) | Apache-2.0 |
 | [TipTap](https://hackaday.io/project/163093-tiptap) | [Darren V Levine](https://hackaday.io/darrevlevine) | Spherical | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
-| [ToddlerBot](https://toddlerbot.github.io/) | ToddlerBot project | Flat | [MakerWorld](https://makerworld.com/fr/models/1068768#profileId-1058247) | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/hshi74/toddlerbot) | MIT |
 | [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | [Stéphane Caron](https://github.com/stephane-caron) | Wheeled | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
 
 ### Educational
@@ -59,6 +58,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | NimbRo team | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | ❌ CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
+| [ToddlerBot](https://toddlerbot.github.io/) | ToddlerBot project | Flat | [MakerWorld](https://makerworld.com/fr/models/1068768#profileId-1058247) | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/hshi74/toddlerbot) | MIT |
 
 ### Hybrid
 
