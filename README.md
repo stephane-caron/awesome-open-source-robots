@@ -59,7 +59,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 | [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | NimbRo team | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | ❌ CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
-| [ToddlerBot](https://toddlerbot.github.io/) | ToddlerBot project | [MakerWorld](https://makerworld.com/fr/models/1068768#profileId-1058247) | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/hshi74/toddlerbot) | MIT |
+| [ToddlerBot](https://toddlerbot.github.io/) | Stanford University | [MakerWorld](https://makerworld.com/fr/models/1068768#profileId-1058247) | ❌ CC-BY-NC-SA-4.0 | [GitHub](https://github.com/hshi74/toddlerbot) | MIT |
 
 ### Hybrid
 
