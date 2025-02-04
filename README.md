@@ -18,7 +18,7 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ## Gallery
 
-| <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/quadruped_robot_12dof_v1/images/solo12_8.jpg" alt="Solo" height="100"> | <img src="gallery/upkie.jpg" alt="Upkie" height="100"> | <img src="gallery/openscout.jpg" alt="OpenScout" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/tri_finger_edu_v1/images/manipulator_platform_1.jpg" alt="TriFingerEdu" height="100"> |
+| <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/quadruped_robot_12dof_v1/images/solo12_8.jpg" alt="Solo" height="100"> | <img src="gallery/upkie.jpg" alt="Upkie" height="100"> | <img src="gallery/openscout.jpg" alt="OpenScout" height="100"> | <img src="gallery/trifinger.jpg" alt="TriFingerEdu" height="100"> |
 |--|--|--|--|
 | <img src="gallery/wheelbot.jpg" alt="WheelBot" height="100"> | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> |
 | <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="gallery/thor.jpg" alt="Thor" height="100"> | <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> | <img src="gallery/mevius.jpg" alt="MEVIUS" height="100"> |
