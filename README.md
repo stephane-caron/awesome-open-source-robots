@@ -85,12 +85,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 
 ### Wheeled
 
-| Project | Maker | License | Build | Software |
-|---------|-------|---------|-------|----------|
-| [Hoverbot](https://www.youtube.com/watch?v=syxE1NEU7lw) | Josh Pieper | Apache-2.0 | [GitHub](https://github.com/mjbots/hoverbot/blob/main/BOM.md) | [GitHub](https://github.com/mjbots/hoverbot/) |
-| [JPL Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) | Jet Propulsion Laboratory | Apache-2.0 | [Build](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) | [GitHub](https://github.com/nasa-jpl/osr-rover-code) |
-| [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | Samuel Carter | GPL-3.0 | [Manual](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | [GitHub](https://github.com/cbedio/OpenScout) |
-| [WheelBot](https://sites.google.com/view/wheelbot) | [A. René Geist](https://github.com/AndReGeist) | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) |
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| [Hoverbot](https://www.youtube.com/watch?v=syxE1NEU7lw) | Josh Pieper |[GitHub](https://github.com/mjbots/hoverbot/blob/main/BOM.md) | Apache-2.0 | [GitHub](https://github.com/mjbots/hoverbot/) | Apache-2.0 |
+| [JPL Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) | Jet Propulsion Laboratory | [GitHub](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) |  Apache-2.0 | [GitHub](https://github.com/nasa-jpl/osr-rover-code) | Apache-2.0 |
+| [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | Samuel Carter | [GitHub](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | GPL-3.0 | [GitHub](https://github.com/cbedio/OpenScout) | GPL-3.0 |
+| [WheelBot](https://sites.google.com/view/wheelbot) | [A. René Geist](https://github.com/AndReGeist) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) | GPL-3.0 |
 
 ## Adding a Robot to the List
 
