@@ -11,6 +11,7 @@ A curated list of awesome robots with open source software, open hardware, and i
     * [Educational](#educational)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
+    * [Mobile Manipulators](#mobile-manipulators)
     * [Parallel](#parallel)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled](#wheeled)
@@ -67,6 +68,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 |---------|-------|----------|------------|----------|------------|
 | [Acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk) | DFKI RIC Underactuated Lab | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/hardware) | BSD-3-Clause | [GitHub](https://github.com/dfki-ric-underactuated-lab/acromonk/tree/main/software) | BSD-3-Clause |
 | [Borinot](http://www.iri.upc.edu/borinot) | HiDRo group | [Hardware](https://github.com/hidro-iri/Borinot/blob/main/hardware/README.md) | BSD-3-Clause | [GitHub](https://github.com/hidro-iri/Borinot/blob/main/software/README.md) | BSD-3-Clause |
+
+### Mobile Manipulators
+
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| [BamBot](https://bambot.org/) | Tim Qian | [GitHub](https://github.com/timqian/bambot/tree/main/hardware) | Apache-2.0 | [GitHub](https://github.com/timqian/bambot) | Apache-2.0 |
 
 ### Parallel
 
