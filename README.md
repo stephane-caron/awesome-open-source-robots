@@ -9,6 +9,7 @@ A curated list of awesome robots with open source software, open hardware, and i
     * [Arms](#arms)
     * [Bipeds](#bipeds)
     * [Educational](#educational)
+    * [End Effectors](#end-effectors)
     * [Humanoids](#humanoids)
     * [Hybrid](#hybrid)
     * [Mobile Manipulators](#mobile-manipulators)
@@ -52,6 +53,12 @@ A curated list of awesome robots with open source software, open hardware, and i
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
 | [Rotary Inverted Pendulum](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main) | [Henrique Ferrolho](https://github.com/ferrolho) | [Instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md), [Meshes](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/meshes) | MIT | [Arduino](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-arduino), [Julia](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-julia), [Python](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-python) | MIT |
+
+### End Effectors
+
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| Amazing Hand | [Pollen Robotics](https://www.pollen-robotics.com/) | [Assembly guide](https://github.com/pollen-robotics/AmazingHand/blob/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/docs/AmazingHand_Assembly.pdf), [CAD](https://github.com/pollen-robotics/AmazingHand/tree/4c5cb2f2ad758a3df90200eb0184b0af32d5706b/cad) | Apache-2.0 | [GitHub](https://github.com/pollen-robotics/AmazingHand/tree/main) | Apache-2.0 |
 
 ### Humanoids
 
