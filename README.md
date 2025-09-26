@@ -2,6 +2,8 @@
 
 A curated list of awesome robots with open source software, open hardware, and in the best cases both.
 
+In this context, "hardware" includes electronics and mechanical designs, basically anything physical with public source files shared in order to build *and* modify it. See also the [Open Source Hardware Definition](https://oshwa.org/resources/open-source-hardware-definition/).
+
 ## Contents
 
 * [Gallery](#gallery)
