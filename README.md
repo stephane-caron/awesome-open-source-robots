@@ -109,6 +109,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | [JPL Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) | Jet Propulsion Laboratory | [GitHub](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) |  Apache-2.0 | [GitHub](https://github.com/nasa-jpl/osr-rover-code) | Apache-2.0 |
 | [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | Samuel Carter | [GitHub](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | GPL-3.0 | [GitHub](https://github.com/cbedio/OpenScout) | GPL-3.0 |
 | [WheelBot](https://sites.google.com/view/wheelbot) | [A. René Geist](https://github.com/AndReGeist) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) | GPL-3.0 |
+| [Just1](https://github.com/NRdrgz/Just1) | [Nicolas Rodriguez](https://github.com/NRdrgz) | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Hardware) | MIT | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Software) | MIT |
 
 ## Adding a Robot to the List
 
