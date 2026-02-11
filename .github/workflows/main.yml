@@ -17,6 +17,16 @@ jobs:
               with:
                   fetch-depth: 0
 
+            - name: "Set up Node.js"
+              uses: actions/setup-node@v3
+              with:
+                  node-version: 'latest'
+
+            - name: "Install dependencies"
+              run: |
+                  npm install --save-dev awesome-lint
+                  npm update
+
             - name: "Awesome lint"
               run: |
                   npx awesome-lint
