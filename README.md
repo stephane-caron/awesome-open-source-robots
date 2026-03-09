@@ -43,6 +43,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
 | [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
+| [CocoNuts](https://github.com/MarcDcls/coconuts/) | [Marc Duclusaud](https://github.com/MarcDcls) | [GitHub](https://github.com/MarcDcls/coconuts/tree/main/hardware) | CERN-OHL-S v2 | [GitHub](https://github.com/MarcDcls/coconuts/tree/main/software) | Apache-2.0 |
 | [Duke Humanoid](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) | [Duke University](https://duke.edu/) | [Wiki](https://sleepy-yoke-a21.notion.site/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89) | MIT | [GitHub](https://github.com/generalroboticslab/DukeHumanoidv1) | MIT |
 | [Kayra](https://youtu.be/ZpM4JqCai9M) | [Ramin Assadollahi](https://github.com/assadollahi) | [GitHub](https://github.com/assadollahi/kayra/tree/main/STL) | BSD-3-Clause | [GitHub](https://github.com/assadollahi/kayra) | BSD-3-Clause |
 | [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) | [Raspibotics](https://github.com/raspibotics) | [GitHub](https://github.com/raspibotics/MABEL/tree/master/CAD) | GPL-3.0 | [GitHub](https://github.com/raspibotics/MABEL/) | GPL-3.0 |
@@ -107,9 +108,9 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 |---------|-------|----------|------------|----------|------------|
 | [Hoverbot](https://www.youtube.com/watch?v=syxE1NEU7lw) | Josh Pieper |[GitHub](https://github.com/mjbots/hoverbot/blob/main/BOM.md) | Apache-2.0 | [GitHub](https://github.com/mjbots/hoverbot/) | Apache-2.0 |
 | [JPL Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) | Jet Propulsion Laboratory | [GitHub](https://github.com/nasa-jpl/open-source-rover#rover-build-roadmap) |  Apache-2.0 | [GitHub](https://github.com/nasa-jpl/osr-rover-code) | Apache-2.0 |
+| [Just1](https://github.com/NRdrgz/Just1) | [Nicolas Rodriguez](https://github.com/NRdrgz) | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Hardware) | MIT | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Software) | MIT |
 | [OpenScout](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) | Samuel Carter | [GitHub](https://github.com/cbedio/OpenScout/blob/main/Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) | GPL-3.0 | [GitHub](https://github.com/cbedio/OpenScout) | GPL-3.0 |
 | [WheelBot](https://sites.google.com/view/wheelbot) | [A. René Geist](https://github.com/AndReGeist) | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5) | GPL-3.0 | [GitHub](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/firmware) | GPL-3.0 |
-| [Just1](https://github.com/NRdrgz/Just1) | [Nicolas Rodriguez](https://github.com/NRdrgz) | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Hardware) | MIT | [GitHub](https://github.com/NRdrgz/Just1/tree/main/Bot/Software) | MIT |
 
 ## Adding a Robot to the List
 
