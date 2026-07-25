@@ -110,7 +110,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
-| [Sowbot](https://sowbot.co.uk/) | [Agroecology Lab](https://github.com/Agroecology-Lab) | [Hardware](https://sowbot.co.uk/#hardware) | CERN-OHL-S Unspecified | [GitHub](https://github.com/Agroecology-Lab/feldfreund_devkit_ros) | MIT |
+| [Sowbot](https://sowbot.co.uk/) | [Agroecology Lab](https://github.com/Agroecology-Lab) | [Hardware](https://sowbot.co.uk/#hardware) | CERN-OHL-S  | [GitHub](https://github.com/Agroecology-Lab/feldfreund_devkit_ros) | MIT |
 
 ### Wheeled
 
