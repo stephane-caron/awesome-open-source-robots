@@ -17,6 +17,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
     * [Mobile Manipulators](#mobile-manipulators)
     * [Parallel](#parallel)
     * [Quadrupeds](#quadrupeds)
+    * [Tracked](#tracked)
     * [Wheeled](#wheeled)
 * [Adding a Robot to the List](#adding-a-robot-to-the-list)
 
@@ -58,6 +59,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
 | [Rotary Inverted Pendulum](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main) | [Henrique Ferrolho](https://github.com/ferrolho) | [Instructions](https://github.com/ferrolho/rotary-inverted-pendulum/blob/main/README.md), [Meshes](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/meshes) | MIT | [Arduino](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-arduino), [Julia](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-julia), [Python](https://github.com/ferrolho/rotary-inverted-pendulum/tree/main/RotaryInvertedPendulum-python) | MIT |
+| [ROSMO](https://rosmo-robot.github.io/) | [Rosmo](https://github.com/rosmo-robot) | [Build guide](https://rosmo-robot.github.io/build), [Schematic](https://easyeda.com/editor#id=fe972d3133f048a3be8b1bbdfaf8a93f) | CERN-OHL-S | [GitHub](https://github.com/rosmo-robot/rosmo-firmware) | Apache-2.0 |
 
 ### End Effectors
 
@@ -69,6 +71,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
+| [Asimov v1](https://asimov.inc) | [Menlo Research](https://github.com/asimovinc) | [GitHub](https://github.com/asimovinc/asimov-1) | CERN-OHL-S-2.0 | [GitHub](https://github.com/asimovinc/asimov-1) | GPL-2.0 |
 | [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | NimbRo team | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | ❌ CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
@@ -102,6 +105,12 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | [MEVIUS](https://haraduka.github.io/mevius-hardware/) | JSK Robotics Laboratory | [Google Drive](https://drive.google.com/drive/folders/18i6CWtUG8fkY0rCcbjN5WiUYItjIX0WM) | MIT | [GitHub](https://github.com/haraduka/mevius) | MIT |
 | [mjbots quad](https://hackaday.io/project/167845-mjbots-quad) | Josh Pieper | [Fusion 360](https://myhub.autodesk360.com/ue2cb4876/g/shares/SH56a43QTfd62c1cd968fcf1b110c6f45fbb) | ❌ | [GitHub](https://github.com/mjbots/quad/) | Apache-2.0 |
 | [Solo](https://www.youtube.com/watch?v=VjpmQ9MsLKg) | Open Dynamic Robot Initiative | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1) | CC0-1.0 |  [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=solo) | CC0-1.0 |
+
+### Tracked
+
+| Project | Maker | Hardware | HW License | Software | SW License |
+|---------|-------|----------|------------|----------|------------|
+| [Sowbot](https://sowbot.co.uk/) | [Agroecology Lab](https://github.com/Agroecology-Lab) | [Hardware](https://sowbot.co.uk/#hardware) | CERN-OHL-S  | [GitHub](https://github.com/Agroecology-Lab/feldfreund_devkit_ros) | MIT |
 
 ### Wheeled
 
