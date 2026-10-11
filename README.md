@@ -37,6 +37,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 |---------|-------|----------|------------|----------|------------|
 | [Koch v1.1](https://github.com/jess-moss/koch-v1-1) | Jess Moss | [GitHub](https://github.com/jess-moss/koch-v1-1/tree/main/hardware) | Apache-2.0 | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/blob/main/robot.py) | MIT |
 | [low\_cost\_robot](https://tau-robotics.com/robots) | Alexander Koch | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/hardware) | MIT | [GitHub](https://github.com/AlexanderKoch-Koch/low_cost_robot/tree/main/simulation) | MIT |
+| [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) | Robonine | [GitHub](https://github.com/roboninecom/SO-ARM-102/tree/a62866a6d65efa4be7fd421e318ce8e649ac806a/models) | CERN-OHL-P-2.0 | [LeRobot](https://github.com/huggingface/lerobot) | Apache-2.0 |
 | [Thor](http://thor.angel-lm.com/) | Ángel L.M. | [GitHub](https://github.com/AngelLM/Thor) | CC-BY-SA-4.0 | [GitHub](https://github.com/AngelLM/grbl/) | GPL-3.0 |
 
 ### Bipeds
