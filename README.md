@@ -73,6 +73,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
 | [Asimov v1](https://asimov.inc) | [Menlo Research](https://github.com/asimovinc) | [GitHub](https://github.com/asimovinc/asimov-1) | CERN-OHL-S-2.0 | [GitHub](https://github.com/asimovinc/asimov-1) | GPL-2.0 |
+| [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org/) | [Hybrid Robotics](https://github.com/HybridRobotics) | [GitHub](https://github.com/HybridRobotics/berkeley-humanoid-lite-assets) | CC-BY-SA-4.0 | [GitHub](https://github.com/HybridRobotics/berkeley-humanoid-lite) | MIT |
 | [NimbRo-OP2X](https://github.com/NimbRo/nimbro-op2) | NimbRo team | [GitHub](https://github.com/NimbRo/nimbro-op2/tree/master/NimbRo-OP2X/CAD) | ❌ CC-BY-NC-SA-3.0 | [Software](https://github.com/NimbRo/nimbro-op-ros?tab=License-1-ov-file#readme) | BSD-3-Clause |
 | [Poppy Ergo Jr](https://github.com/poppy-project/poppy-ergo-jr/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware) | CC-BY-SA-4.0 | [Software](https://github.com/poppy-project/poppy-ergo-jr/tree/master/software) | GPL-3.0 |
 | [Poppy Humanoid](https://www.poppy-project.org/en/robots/poppy-humanoid/) | Poppy project | [Hardware](https://github.com/poppy-project/poppy-humanoid/tree/master/hardware) | CC-BY-SA-4.0 | [GitHub](https://github.com/poppy-project/poppy-humanoid/tree/master/software) | GPL-3.0 |
