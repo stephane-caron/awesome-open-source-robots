@@ -27,7 +27,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 |--|--|--|--|--|
 | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> | <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="gallery/thor.jpg" alt="Thor" height="100"> |
 | <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> | <img src="gallery/mevius.jpg" alt="MEVIUS" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="gallery/open-duck-mini.jpg" alt="Open Duck Mini" height="100"> | <img src="gallery/mabel.jpg" alt="MABEL" height="100"> |
-| <img src="gallery/toddlerbot.jpg" alt="ToddlerBot" height="100"> | <img src="gallery/coconuts.png" alt="CocoNuts" height="100"> | <img src="gallery/microban.png" alt="Microban" height="100"> | | |
+| <img src="gallery/toddlerbot.jpg" alt="ToddlerBot" height="100"> | <img src="gallery/coconuts.png" alt="CocoNuts" height="100"> | <img src="gallery/microban.png" alt="Microban" height="100"> | <img src="gallery/berkeley-humanoid-lite.png.jpg" alt="Berkeley Humanoid Lite" height="100"> | |
 
 ## Robots
 
