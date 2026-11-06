@@ -27,7 +27,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 |--|--|--|--|--|
 | <img src="gallery/poppy-humanoid.jpg" alt="Poppy Humanoid" height="100"> | <img src="gallery/jpl-open-source-rover.png" alt="JPL Open Source Rover" height="100"> | <img src="gallery/acromonk.jpg" alt="Acromonk" height="100"> | <img src="gallery/borinot.png" alt="Borinot" height="100"> | <img src="gallery/thor.jpg" alt="Thor" height="100"> |
 | <img src="gallery/furuta-pendulum.jpg" alt="Rotary Inverted Pendulum" height="100"> | <img src="gallery/mevius.jpg" alt="MEVIUS" height="100"> | <img src="https://raw.githubusercontent.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/master/mechanics/biped_6dof_v1/images/biped_3.jpg" alt="Bolt" height="100"> | <img src="gallery/open-duck-mini.jpg" alt="Open Duck Mini" height="100"> | <img src="gallery/mabel.jpg" alt="MABEL" height="100"> |
-| <img src="gallery/toddlerbot.jpg" alt="ToddlerBot" height="100"> | <img src="gallery/coconuts.png" alt="CocoNuts" height="100"> | <img src="gallery/microban.png" alt="Microban" height="100"> | <img src="gallery/berkeley-humanoid-lite.png.jpg" alt="Berkeley Humanoid Lite" height="100"> | |
+| <img src="gallery/toddlerbot.jpg" alt="ToddlerBot" height="100"> | <img src="gallery/coconuts.png" alt="CocoNuts" height="100"> | <img src="gallery/microban.png" alt="Microban" height="100"> | <img src="gallery/berkeley-humanoid-lite.png.jpg" alt="Berkeley Humanoid Lite" height="100"> | <img src="gallery/asteris-bipedrobot.jpg" alt="BipedRobot" height="100"> |
 
 ## Robots
 
@@ -44,6 +44,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 
 | Project | Maker | Hardware | HW License | Software | SW License |
 |---------|-------|----------|------------|----------|------------|
+| [BipedRobot](https://github.com/AsterisCrack/BipedRobot) | [Asteris](https://github.com/AsterisCrack) | [GitHub](https://github.com/AsterisCrack/BipedRobotHardware) | CERN-OHL-P-2.0 | [GitHub](https://github.com/AsterisCrack/BipedRobot) | MIT |
 | [Bolt](https://www.youtube.com/watch?v=x2jYQdjT_es) | [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) | [Instructions](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1) | BSD-3-Clause | [GitHub](https://github.com/orgs/open-dynamic-robot-initiative/repositories?for=bolt) | BSD-3-Clause |
 | [CocoNuts](https://github.com/MarcDcls/coconuts/) | [Marc Duclusaud](https://github.com/MarcDcls) | [GitHub](https://github.com/MarcDcls/coconuts/tree/main/hardware) | CERN-OHL-S v2 | [GitHub](https://github.com/MarcDcls/coconuts/tree/main/software) | Apache-2.0 |
 | [Duke Humanoid](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) | [Duke University](https://duke.edu/) | [Wiki](https://sleepy-yoke-a21.notion.site/Duke-Humanoid-V1-38d54de887d1403a82f2367490c45b89) | MIT | [GitHub](https://github.com/generalroboticslab/DukeHumanoidv1) | MIT |
