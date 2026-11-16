@@ -54,7 +54,7 @@ In this context, "hardware" includes electronics and mechanical designs, basical
 | [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) | [Antoine Pirrone](https://github.com/apirrone) | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main/mini_bdx/robots/bdx) | Apache-2.0 | [GitHub](https://github.com/apirrone/Open_Duck_Mini/tree/main) | Apache-2.0 |
 | [RobotX](https://github.com/XRobots/RobotX) | James Bruton | [GitHub](https://github.com/XRobots/RobotX/tree/master/CAD) | GPL-3.0 | [GitHub](https://github.com/XRobots/RobotX/tree/master/ArduinoCode) | LGPL-3.0 |
 | [TipTap](https://hackaday.io/project/163093-tiptap) | [Darren V Levine](https://hackaday.io/darrevlevine) | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/parts) | MIT | [GitHub](https://github.com/DarrenLevine/TipTap/tree/master/software) | MIT |
-| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | [Stéphane Caron](https://github.com/stephane-caron) | [Wiki](https://github.com/upkie/upkie/wiki) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
+| [Upkie](https://hackaday.io/project/185729-upkie-wheeled-biped-robot) | [Stéphane Caron](https://github.com/stephane-caron) | [GitHub](https://github.com/upkie/upkie_parts) | Apache-2.0 | [GitHub](https://github.com/upkie/upkie) | Apache-2.0 |
 
 ### Educational
 
